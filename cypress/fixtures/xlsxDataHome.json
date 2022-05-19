@@ -1,0 +1,246 @@
+[
+  {
+    "Information": "mail",
+    "English": "yasmine.walha@enis.tn",
+    "Français": "yasmine.walha@enis.tn",
+    "xPath": "//input[@id=\"exampleInputEmail1\"]"
+  },
+  {
+    "Information": "password",
+    "English": 123123,
+    "Français": 123123,
+    "xPath": "//input[@id=\"exampleInputPassword1\"]",
+    "id": null,
+    "actions": "//button[@id='bouton']"
+  },
+  {
+    "Information": "Welcome Message",
+    "English": " Hello Yasmine, you can access to your applications: ",
+    "Français": " Bonjour Yasmine, vous pouvez accéder à vos applications: ",
+    "xPath": null,
+    "id": "#WelcomeTexte"
+  },
+  {
+    "Information": "omniChannel Title",
+    "English": "Omnichannel Reporting",
+    "Français": "Le reporting omnichannel",
+    "xPath": null,
+    "id": "#Titre"
+  },
+  {
+    "Information": "omniChannel subtitle",
+    "English": "View and manage all your payment transactions",
+    "Français": "Voir tous les transactions",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "omniChannel DashboardElement",
+    "English": "Dashboard",
+    "Français": "Le dashboard",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "View All Button",
+    "English": "View all tools",
+    "Français": "voir tous les outils",
+    "xPath": null,
+    "id": "#MyViewAllButton",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel DashboardElement",
+    "English": "Dashboard",
+    "Français": "Le dashboard",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[1]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Immediate ReportsElement",
+    "English": "Immediate reports",
+    "Français": "Rapports immediats",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[2]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Scheduled ReportsElement",
+    "English": "Scheduled reports",
+    "Français": "Rapports programmés",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[3]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Transaction ManagementElement",
+    "English": "Transaction management",
+    "Français": "Gestion des transactions",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[4]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Risk preventionElement",
+    "English": "Risk prevention",
+    "Français": "Prévention des risques",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[5]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Merchant reportElement",
+    "English": "Merchant report",
+    "Français": "Rapport marchand",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[6]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "onboarding Title",
+    "English": "Onboarding",
+    "Français": "L'embarquement",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "onboarding Subtitle",
+    "English": "Manage your stores, contracts and POS",
+    "Français": "Gérez vos contrats et points de vente",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "onboarding ProjectsElement",
+    "English": "Projects",
+    "Français": "Projets",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "onboarding TokenizationElement",
+    "English": "Tokenization",
+    "Français": "Tokénisation",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "terminal Title",
+    "English": "Terminal Management",
+    "Français": "Gestion des terminaux",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "terminal Subtitle",
+    "English": "Monitor your estate of payment terminals",
+    "Français": "Surveillez votre parc de terminaux de paiement",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "terminal snapshotElement",
+    "English": "Snapshot",
+    "Français": "Snapshot",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "terminal softwareElement",
+    "English": "Software overview",
+    "Français": "Présentation du logiciel",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "View All Button",
+    "English": "View all tools",
+    "Français": "voir tous les outils",
+    "xPath": null,
+    "id": "#MyViewAllButton",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal snapshotElement",
+    "English": "Snapshot",
+    "Français": "Snapshot",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[1]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal softwareElement",
+    "English": "Software overview",
+    "Français": "Présentation du logiciel",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[2]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal hardwareElement",
+    "English": "Hardware Overview",
+    "Français": "Présentation du matériel",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[3]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal tokenizationElement",
+    "English": "Tokenization",
+    "Français": "Tokenization",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[4]/p[1]",
+    "id": null,
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "payments Title",
+    "English": "Online Payments Back-office",
+    "Français": "Back-office des paiements en ligne",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "payments Subtitle",
+    "English": "Manage your online services",
+    "Français": "Gérez vos services en ligne",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "payments menuElement",
+    "English": "Main menu",
+    "Français": "Menu principal",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "payments transactionsElement",
+    "English": "Transactions",
+    "Français": "Transactions",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "monitoring Title",
+    "English": "Monitoring",
+    "Français": "Surveillance",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "monitoring Subtitle",
+    "English": "Monitor your estate of payment terminals",
+    "Français": "Surveillez votre parc de terminaux de paiement",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "monitoring definedElement",
+    "English": "To be defined",
+    "Français": "À définir",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "monitoring definedElement",
+    "English": "To be defined",
+    "Français": "À définir",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  }
+]

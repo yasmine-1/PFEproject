@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "include": ["**/*.ts","**/*.js", "support/index.js", "support/commands.js", "plugins/index.js"],
+  //"ignoreTestFiles": "*.js",
+  "compilerOptions": {
+    "sourceMap": false,
+    "types": ["cypress","node","node-xlsx"]
+  }
+}

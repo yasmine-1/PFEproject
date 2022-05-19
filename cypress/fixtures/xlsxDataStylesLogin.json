@@ -1,0 +1,72 @@
+[
+  {
+    "Information": "Background of login's box",
+    "xPath": "//div[@id='myCard']",
+    "Color": "rgba(0, 0, 0, 0.4)",
+    "Width": "492px",
+    "Height": "600px"
+  },
+  {
+    "Information": "Title of login's box",
+    "xPath": "//h2[@id='titlename']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "412px",
+    "Height": "32px"
+  },
+  {
+    "Information": "Language selected",
+    "xPath": "//select[@name='language']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "80px",
+    "Height": "22px"
+  },
+  {
+    "Information": "input email",
+    "xPath": "//input[@id='exampleInputEmail1']",
+    "Color": "rgb(255, 255, 255)",
+    "Width": "383px",
+    "Height": "55px"
+  },
+  {
+    "Information": "input password",
+    "xPath": "//input[@id='exampleInputPassword1']",
+    "Color": "rgb(255, 255, 255)",
+    "Width": "383px",
+    "Height": "55px"
+  },
+  {
+    "Information": "forgot password",
+    "xPath": "//h4[@id='forgotPasswords']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "120.0625px",
+    "Height": "24px"
+  },
+  {
+    "Information": "button sign in",
+    "xPath": "//button[@id='bouton']",
+    "Color": "rgba(0, 0, 0, 0.4)",
+    "Width": "385px",
+    "Height": "40px"
+  },
+  {
+    "Information": "Going to sign up page",
+    "xPath": "//h4[@id='newUser']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "256.8125px",
+    "Height": "24px"
+  },
+  {
+    "Information": "Helpdesk",
+    "xPath": "//div[@id='emailHelp']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "270.171875px",
+    "Height": "20px"
+  },
+  {
+    "Information": "Worldline word",
+    "xPath": "//h6[@id='worldline']",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "71.921875px",
+    "Height": "20px"
+  }
+]

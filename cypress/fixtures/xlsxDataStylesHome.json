@@ -1,0 +1,265 @@
+[
+  {
+    "Information": "mail",
+    "Color": "yasmine.walha@enis.tn",
+    "Width": "yasmine.walha@enis.tn",
+    "Height": "yasmine.walha@enis.tn",
+    "xPath": "//input[@id='exampleInputEmail1']"
+  },
+  {
+    "Information": "password",
+    "Color": 123123,
+    "Width": 123123,
+    "Height": 123123,
+    "xPath": "//input[@id='exampleInputPassword1']",
+    "actions": "//button[@id='bouton']"
+  },
+  {
+    "Information": "Welcome message",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "482.484375px",
+    "Height": "20px",
+    "xPath": "//div[@id='WelcomeTexte']"
+  },
+  {
+    "Information": "omniChannel Title",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297.8125px",
+    "Height": "20px",
+    "xPath": "//mat-card-title[normalize-space()='Omnichannel Reporting']"
+  },
+  {
+    "Information": "omniChannel subtitle",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297.8125px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "omniChannel DashboardElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "88.0625px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "View All Button",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "93.09375px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel DashboardElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[1]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Immediate ReportsElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[2]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Scheduled ReportsElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[3]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Transaction ManagementElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[4]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Risk preventionElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[5]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupOmniChannel Merchant reportElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[6]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[1]/div[1]/app-box[1]/div[1]/mat-card[1]/div[6]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "onboarding Title",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "249.015625px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "onboarding Subtitle",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "249.015625px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "onboarding ProjectsElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "65.03125px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "onboarding TokenizationElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "100.078125px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[2]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "terminal Title",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "253.671875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "terminal Subtitle",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "253.671875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "terminal snapshotElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "76.0625px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "terminal softwareElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "147.0625px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "View All Button",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "93.09375px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal snapshotElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[1]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal softwareElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[2]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal hardwareElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[3]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "popupTerminal tokenizationElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "297px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/mat-dialog-container[1]/app-pop-up[1]/div[4]/p[1]",
+    "actions": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[3]/div[1]/app-box[1]/div[1]/mat-card[1]/div[4]/div[2]",
+    "EndActions": "//mat-icon[normalize-space()='close']"
+  },
+  {
+    "Information": "payments Title",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "256.421875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "payments Subtitle",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "256.421875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "payments menuElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "89.046875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "payments transactionsElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "102.375px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[4]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  },
+  {
+    "Information": "monitoring Title",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "253.671875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-title[1]"
+  },
+  {
+    "Information": "monitoring Subtitle",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "253.671875px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/mat-card-header[1]/div[1]/mat-card-subtitle[1]"
+  },
+  {
+    "Information": "monitoring definedElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "108.09375px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/div[1]/p[1]"
+  },
+  {
+    "Information": "monitoring definedElement",
+    "Color": "rgba(0, 0, 0, 0)",
+    "Width": "108.09375px",
+    "Height": "20px",
+    "xPath": "/html[1]/body[1]/app-root[1]/app-home[1]/div[1]/app-dashboard[1]/div[1]/mat-grid-list[1]/div[1]/mat-grid-tile[5]/div[1]/app-box[1]/div[1]/mat-card[1]/div[2]/div[1]/p[1]"
+  }
+]

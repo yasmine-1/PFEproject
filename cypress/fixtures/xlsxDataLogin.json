@@ -1,0 +1,37 @@
+[
+  {
+    "id": "//h2[@id=\"titlename\"]",
+    "English": "Welcome to e-Portal",
+    "Français": "Bienvenue à e-Portal"
+  },
+  {
+    "id": "//h4[@id=\"forgotPasswords\"]",
+    "English": "Forgot password?",
+    "Français": "Mot de passe oublié?"
+  },
+  {
+    "id": "//button[@id='bouton']",
+    "English": "Login",
+    "Français": "Se connecter"
+  },
+  {
+    "id": "//h4[@id=\"newUser\"]",
+    "English": "New user? click here to sign up please",
+    "Français": "nouveau utilisateur? appuyez ici pour vous inscrire"
+  },
+  {
+    "id": "//div[@id='emailHelp']",
+    "English": "In case of any issue, please contact your Helpdesk",
+    "Français": "En cas de problème, veuillez contacter votre Helpdesk"
+  },
+  {
+    "id": "//input[@id=\"exampleInputEmail1\"]",
+    "English": "Email address",
+    "Français": "Addresse mail"
+  },
+  {
+    "id": "//input[@id=\"exampleInputPassword1\"]",
+    "English": "Password",
+    "Français": "Mot de passe"
+  }
+]
